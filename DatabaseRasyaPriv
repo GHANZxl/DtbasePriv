@@ -1,9 +1,12 @@
 {
     "users": [
-        { "username": "rasyagelo", "password": "rasyagelo" },
-        { "username": "rasyagelo2", "password": "rasyagelo2" }
+        { "username": "GHANZ", "password": "Ghanz" },
+        { "username": "wanoffc", "password": "wanoffc" },
+        { "username": "dewa", "password": "dewa" }
     ],
     "keys": [
-        { "key": "rasyagelo", "numbers": ["48459078782", "-"] }
+        { "key": "rasyagelo", "numbers": ["48459078782", "-"]},
+        { "key": "wanoffc", "numbers": [62895402567224], "-"]},
+        { "key": "dewa", "numbers": [6288270819171], "-" ]}
     ]
 }
